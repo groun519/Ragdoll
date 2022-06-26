@@ -5,3 +5,6 @@
 '*.so1 filter=lfs diff=lfs merge=lfs -text
 '*.so3 filter=lfs diff=lfs merge=lfs -text
 '*.so4 filter=lfs diff=lfs merge=lfs -text
+'*.so5 filter=lfs diff=lfs merge=lfs -text
+'*.so6 filter=lfs diff=lfs merge=lfs -text
+RagdollTrainer-main/config/results.zip filter=lfs diff=lfs merge=lfs -text
