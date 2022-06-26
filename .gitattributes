@@ -4,3 +4,4 @@
 '*.so2 filter=lfs diff=lfs merge=lfs -text
 '*.so1 filter=lfs diff=lfs merge=lfs -text
 '*.so3 filter=lfs diff=lfs merge=lfs -text
+'*.so4 filter=lfs diff=lfs merge=lfs -text
