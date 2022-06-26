@@ -1,0 +1,3 @@
+cd C:\Users\groun\Downloads\workspace\RagdollTrainer-main\RagdollTrainer-main\config
+
+mlagents-learn ./THbot.yaml --run-id=THbot_02
